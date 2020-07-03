@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            AnthroGraph
+tagline:          'Some stuff about my RDF and osteology'
+description:      'A place to share interesting things about Semantic web modeling'
+url:              https://rdfbones.github.io
+
+author:
+  name:           'Stefan Schlager'
+  url:            http://rdfbones.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/rdfbones
+
+# Gems
+gems:
+ - jekyll-coffeescript
+ - jekyll-paginate
+
+kramdown:
+   input: GFM
+   hard_wrap: false
+   syntax_highlighter: rouge

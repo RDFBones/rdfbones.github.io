@@ -1,0 +1,67 @@
+/*
+ * Contents
+ *
+ * custom classes
+ */
+
+
+.mainheader {
+    font-family:Abril Fatface, serif;
+    font-size: 2.5rem;
+    margin-bottom:4rem;
+}
+.smallheader {
+    font-family:Abril Fatface, serif;
+    font-size: 1.5rem;
+    margin-bottom:1rem;
+    color: #ffffff;
+}
+.post-excerpt {
+    margin-top: -.5rem;
+    margin-bottom: 1rem;
+    color: #9a9a9a;
+    font-size: 0.7rem;
+}
+
+img[rel~="zoom"] {
+    cursor:-webkit-zoom-in;
+    cursor:-moz-zoom-in;
+     /*cursor: url(/resources/images/zoomin.gif), auto;*/
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure {
+    
+    text-align: center;
+    display: table;
+    max-width: 50%; /* demo; set some amount (px or %) if you can */
+    margin: 10px auto; /* not needed unless you want centered */
+    font-size:0.8em;
+}
+
+.left {
+    float: left;
+    margin: 0px  25px  15px  10px;
+}
+.right {
+    float: right;
+    margin: 10px  25px  15px  0px;
+}
+.center {
+    align: center;
+}
+
+table figure {
+    text-align: center;
+    display: table;
+    max-width: 80%; /* demo; set some amount (px or %) if you can */
+    margin: 10px auto; /* not needed unless you want centered */
+    font-size:0.8em;
+}
+
+figcaption {
+    text-align: center;
+    font-size:0.8em;
+}

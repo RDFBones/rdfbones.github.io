@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            AnthroGraph
-tagline:          'Some stuff about my RDF and osteology'
-description:      'A place to share interesting things about Semantic web modeling'
+tagline:          'Semantic Science'
+description:      'Making Research Explicit'
 url:              https://rdfbones.github.io
 
 author:
@@ -16,6 +16,7 @@ author:
   url:            http://rdfbones.github.io
 
 paginate:         5
+paginate_path: /page:num/
 
 # Custom vars
 version:          2.0.0

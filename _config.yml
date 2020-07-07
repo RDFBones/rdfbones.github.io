@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            AnthroGraph
+title:            RDFBones
 tagline:          'Semantic Science'
 description:      'Making Research Explicit'
 url:              https://rdfbones.github.io

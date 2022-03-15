@@ -6,7 +6,7 @@ tags:
 - training
 
 date: 2022-03-15 13:00:00
-title: We are planning an online course on osteological research data management
+title: "We are planning an online course on osteological research data management"
 ---
 
 The [RDFBones/AnthroGraph workgroup](https://rdfbones.github.io/) at [Biological Anthropology](https://www.uniklinik-freiburg.de/anthropology.html), [University of Freiburg](https://uni-freiburg.de/en/), is currently preparing a funding application for the next phase of their current project. The activities planned include an online course on osteological research data management that aims to help osteologists in biological anthropology to realise solutions for their specific research data requirements.
@@ -20,4 +20,4 @@ The course is aimed at the following target groups:
 
 The workgroup is keeping a list of prospective course participants to document interest within the scientific community towards the funding agency. Researchers who would like to attend a course on osteological research data management or would generally appreciate the existence of such a course are kindly asked to contact [Felix Engel](mailto:felix.engel@anthropologie.uni-freiburg.de?subject=Online course 'Osteological Research Data')
 
-Get more information from the [call for support](../resources/documents/OsteologicalResearchData_CourseSupportCall.pdf).
+Get more information from the [call for support](/resources/documents/OsteologicalResearchData_CourseSupportCall.pdf).

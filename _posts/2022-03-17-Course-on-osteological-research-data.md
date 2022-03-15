@@ -20,4 +20,4 @@ The course is aimed at the following target groups:
 
 The workgroup is keeping a list of prospective course participants to document interest within the scientific community towards the funding agency. Researchers who would like to attend a course on osteological research data management or would generally appreciate the existence of such a course are kindly asked to contact [Felix Engel](mailto:felix.engel@anthropologie.uni-freiburg.de?subject=Online course 'Osteological Research Data')
 
-Get more information from the [call for support](/resources/documents/OsteologicalResearchData_CourseSupportCall.pdf).
+Get more information from the [call for support](../resources/documents/OsteologicalResearchData_CourseSupportCall.pdf).

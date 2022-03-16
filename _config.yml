@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            RDFBones
-tagline:          'Semantic Science'
+title:            Semantic Modelling of Osteological Research Data
+tagline:          'Semantic Research Data Modelling'
 description:      'Making Research Explicit'
 url:              https://rdfbones.github.io
 
